@@ -13,6 +13,7 @@ build/jpeg.js: jpeg-9a/.libs/libjpeg.dylib src/*.h src/*.cc
 			 -s DISABLE_EXCEPTION_CATCHING=1 \
 			 -s PRECISE_I64_MATH=0 \
 			 -s TOTAL_MEMORY=67108864 \
+			 -s ALLOW_MEMORY_GROWTH=1 \
 			 -O3 jpeg-9a/.libs/libjpeg.dylib src/*.cc -o build/jpeg.js
 	echo "module.exports = Module;" >> build/jpeg.js
 
