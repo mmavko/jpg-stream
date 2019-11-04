@@ -1,0 +1,70 @@
+cdjpeg.o: cdjpeg.c cdjpeg.h jinclude.h jconfig.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stddef.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/__config \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stddef.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/bits/alltypes.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stdlib.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/stdlib.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stdlib.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/features.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/alloca.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stdio.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stdio.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/string.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/string.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/string.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/strings.h \
+  jpeglib.h jmorecfg.h jerror.h cderror.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/ctype.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/ctype.h \
+  /Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/ctype.h
+
+cdjpeg.h:
+
+jinclude.h:
+
+jconfig.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stddef.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/__config:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stddef.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/bits/alltypes.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stdlib.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/stdlib.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stdlib.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/features.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/alloca.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/stdio.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/stdio.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/string.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/string.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/string.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/strings.h:
+
+jpeglib.h:
+
+jmorecfg.h:
+
+jerror.h:
+
+cderror.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libcxx/ctype.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/compat/ctype.h:
+
+/Users/mmavko/dev/emsdk/emscripten/1.37.17/system/include/libc/ctype.h:
